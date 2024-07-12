@@ -1,6 +1,4 @@
 package edu.luc.etl.cs313.android.shapes.model;
-import java.util.List;
-import java.util.Iterator;
 
 public class BoundingBox implements Visitor<Location> {
 
